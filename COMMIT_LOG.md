@@ -4,3 +4,4 @@
 ## 2020-03-15 10:31:12 - feat(metric): implement metric module (4/20)
 ## 2020-04-18 20:40:33 - feat(ui): create ui handler (15/20)
 ## 2020-05-17 21:42:32 - feat(log): add log support (6/20)
+## 2020-05-23 19:31:42 - feat(monitor): implement monitor feature (1/20)
