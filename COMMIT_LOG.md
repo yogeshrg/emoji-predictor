@@ -250,3 +250,4 @@
 ## 2020-05-17 21:42:32 - feat(log): add log support (6/20)
 ## 2020-05-23 19:31:42 - feat(monitor): implement monitor feature (1/20)
 ## 2020-05-24 12:17:28 - feat(build): add build endpoint (4/20)
+## 2020-06-06 09:53:23 - feat(config): implement config feature (10/20)
