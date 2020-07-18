@@ -253,3 +253,4 @@
 ## 2020-06-06 09:53:23 - feat(config): implement config feature (10/20)
 ## 2020-06-06 14:36:18 - feat(api): implement api feature (19/20)
 ## 2020-07-08 09:08:09 - feat(docs): implement docs feature
+## 2020-07-18 09:56:41 - feat(api): implement api feature (4/20)
