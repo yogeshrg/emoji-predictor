@@ -13,3 +13,4 @@
 ## 2020-07-30 10:15:01 - feat(model): implement model module
 ## 2020-08-01 09:41:15 - feat(db): implement db module (3/20)
 ## 2020-08-13 10:15:13 - feat(test): implement test feature
+## 2020-09-19 16:27:37 - feat(cache): create cache handler (9/20)
