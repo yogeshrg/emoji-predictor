@@ -259,3 +259,4 @@
 ## 2020-08-13 10:15:13 - feat(test): implement test feature
 ## 2020-09-19 16:27:37 - feat(cache): create cache handler (9/20)
 ## 2020-10-03 23:50:42 - feat(queue): add queue endpoint (8/20)
+## 2020-10-17 19:17:37 - feat(infra): add infra support (20/20)
