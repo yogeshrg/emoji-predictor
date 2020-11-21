@@ -262,3 +262,4 @@
 ## 2020-10-17 19:17:37 - feat(infra): add infra support (20/20)
 ## 2020-10-31 16:08:09 - feat(ui): add ui endpoint (12/20)
 ## 2020-11-07 11:37:35 - feat(worker): add worker support (5/20)
+## 2020-11-21 22:49:51 - feat(worker): add worker endpoint (14/20)
