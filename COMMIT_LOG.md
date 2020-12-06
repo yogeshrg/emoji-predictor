@@ -19,3 +19,4 @@
 ## 2020-10-31 16:08:09 - feat(ui): add ui endpoint (12/20)
 ## 2020-11-07 11:37:35 - feat(worker): add worker support (5/20)
 ## 2020-11-21 22:49:51 - feat(worker): add worker endpoint (14/20)
+## 2020-12-06 15:06:08 - feat(cache): add cache support (11/20)
