@@ -265,3 +265,4 @@
 ## 2020-11-21 22:49:51 - feat(worker): add worker endpoint (14/20)
 ## 2020-12-06 15:06:08 - feat(cache): add cache support (11/20)
 ## 2020-12-19 16:05:27 - feat(security): add security support (12/20)
+## 2021-01-10 21:22:53 - feat(cache): implement cache module (20/20)
