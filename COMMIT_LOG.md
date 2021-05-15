@@ -24,3 +24,4 @@
 ## 2021-01-10 21:22:53 - feat(cache): implement cache module (20/20)
 ## 2021-03-06 09:31:18 - feat(metric): implement metric feature (17/20)
 ## 2021-05-08 19:50:42 - feat(metric): add metric support (13/20)
+## 2021-05-15 15:15:31 - feat(auth): create auth handler (5/20)
