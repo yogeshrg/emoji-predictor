@@ -149,3 +149,4 @@
 ## 2021-05-15 15:15:31 - feat(auth): create auth handler (5/20)
 ## 2021-05-29 14:21:15 - feat(ci): implement ci feature (20/20)
 ## 2021-06-05 15:55:50 - feat(security): add security endpoint (14/20)
+## 2021-06-13 09:51:19 - feat(monitor): add monitor support (8/20)
