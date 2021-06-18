@@ -150,3 +150,4 @@
 ## 2021-05-29 14:21:15 - feat(ci): implement ci feature (20/20)
 ## 2021-06-05 15:55:50 - feat(security): add security endpoint (14/20)
 ## 2021-06-13 09:51:19 - feat(monitor): add monitor support (8/20)
+## 2021-06-18 21:24:21 - feat(data): implement data feature
