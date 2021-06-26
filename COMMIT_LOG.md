@@ -151,3 +151,4 @@
 ## 2021-06-05 15:55:50 - feat(security): add security endpoint (14/20)
 ## 2021-06-13 09:51:19 - feat(monitor): add monitor support (8/20)
 ## 2021-06-18 21:24:21 - feat(data): implement data feature
+## 2021-06-26 19:59:29 - feat(metric): implement metric module (3/20)
