@@ -153,3 +153,4 @@
 ## 2021-06-18 21:24:21 - feat(data): implement data feature
 ## 2021-06-26 19:59:29 - feat(metric): implement metric module (3/20)
 ## 2021-08-15 20:31:54 - feat(test): add test endpoint (11/20)
+## 2021-08-21 21:10:53 - feat(build): add build support (9/20)
