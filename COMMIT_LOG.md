@@ -35,3 +35,4 @@
 ## 2021-09-04 13:44:34 - feat(config): implement config module (10/20)
 ## 2021-09-11 11:06:35 - feat(log): implement log module (16/20)
 ## 2021-09-19 22:17:53 - feat(infra): add infra endpoint (16/20)
+## 2021-09-26 17:23:56 - feat(deploy): add deploy support (12/20)
