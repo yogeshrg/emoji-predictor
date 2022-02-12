@@ -282,3 +282,4 @@
 ## 2021-09-26 17:23:56 - feat(deploy): add deploy support (12/20)
 ## 2021-10-04 12:26:51 - feat(config): add config support
 ## 2021-12-12 22:58:57 - feat(core): implement core module (20/20)
+## 2022-02-12 12:09:45 - feat(config): add config endpoint (1/20)
