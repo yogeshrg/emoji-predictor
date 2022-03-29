@@ -285,3 +285,4 @@
 ## 2022-02-12 12:09:45 - feat(config): add config endpoint (1/20)
 ## 2022-03-05 22:41:58 - feat(metric): create metric handler (3/20)
 ## 2022-03-26 17:05:28 - feat(deploy): create deploy handler (2/20)
+## 2022-03-29 21:18:05 - feat(docs): add docs support
