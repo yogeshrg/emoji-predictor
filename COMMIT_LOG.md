@@ -165,3 +165,4 @@
 ## 2022-03-26 17:05:28 - feat(deploy): create deploy handler (2/20)
 ## 2022-03-29 21:18:05 - feat(docs): add docs support
 ## 2022-04-10 13:44:51 - feat(infra): add infra endpoint (18/20)
+## 2022-05-29 22:03:27 - feat(ci): add ci support (17/20)
