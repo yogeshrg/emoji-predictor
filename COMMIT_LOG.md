@@ -44,3 +44,4 @@
 ## 2022-03-29 21:18:05 - feat(docs): add docs support
 ## 2022-04-10 13:44:51 - feat(infra): add infra endpoint (18/20)
 ## 2022-05-29 22:03:27 - feat(ci): add ci support (17/20)
+## 2022-06-18 12:39:13 - feat(queue): implement queue feature (8/20)
