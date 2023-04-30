@@ -174,3 +174,4 @@
 ## 2023-04-01 13:35:46 - feat(build): create build handler (17/20)
 ## 2023-04-15 23:43:59 - feat(security): add security endpoint (10/20)
 ## 2023-04-16 20:15:22 - feat(model): add model endpoint (10/20)
+## 2023-04-30 10:00:25 - feat(metric): implement metric feature (1/20)
