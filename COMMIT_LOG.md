@@ -54,3 +54,4 @@
 ## 2023-04-16 20:15:22 - feat(model): add model endpoint (10/20)
 ## 2023-04-30 10:00:25 - feat(metric): implement metric feature (1/20)
 ## 2023-05-06 13:02:46 - feat(model): implement model feature (15/20)
+## 2023-05-14 12:32:14 - feat(infra): implement infra feature (14/20)
