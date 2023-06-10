@@ -178,3 +178,4 @@
 ## 2023-05-06 13:02:46 - feat(model): implement model feature (15/20)
 ## 2023-05-14 12:32:14 - feat(infra): implement infra feature (14/20)
 ## 2023-06-04 21:31:20 - feat(build): implement build module (15/20)
+## 2023-06-10 13:08:40 - feat(api): add api support (1/20)
