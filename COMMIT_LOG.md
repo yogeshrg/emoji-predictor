@@ -58,3 +58,4 @@
 ## 2023-06-04 21:31:20 - feat(build): implement build module (15/20)
 ## 2023-06-10 13:08:40 - feat(api): add api support (1/20)
 ## 2023-06-11 16:32:00 - feat(infra): create infra handler (9/20)
+## 2023-06-18 22:15:52 - feat(build): add build endpoint (8/20)
