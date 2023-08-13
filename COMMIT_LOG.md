@@ -182,3 +182,4 @@
 ## 2023-06-11 16:32:00 - feat(infra): create infra handler (9/20)
 ## 2023-06-18 22:15:52 - feat(build): add build endpoint (8/20)
 ## 2023-07-29 13:29:00 - feat(infra): add infra endpoint (14/20)
+## 2023-08-13 21:12:25 - feat(auth): add auth endpoint (19/20)
