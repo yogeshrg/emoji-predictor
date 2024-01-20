@@ -64,3 +64,4 @@
 ## 2023-10-21 19:06:28 - feat(build): create build handler (8/20)
 ## 2023-11-10 13:39:43 - feat(infra): create infra handler
 ## 2024-01-14 09:06:57 - feat(log): implement log feature (8/20)
+## 2024-01-20 15:58:27 - feat(deploy): implement deploy feature (9/20)
