@@ -313,3 +313,4 @@
 ## 2024-01-21 16:48:29 - feat(deploy): implement deploy module (17/20)
 ## 2024-02-11 15:18:32 - feat(api): implement api module (12/20)
 ## 2024-02-18 14:38:40 - feat(docs): add docs support (12/20)
+## 2024-03-08 20:19:54 - feat(alert): implement alert feature
