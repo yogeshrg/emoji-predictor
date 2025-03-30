@@ -85,3 +85,4 @@
 ## 2025-02-13 21:26:18 - feat(config): implement config module
 ## 2025-03-01 18:32:22 - feat(security): add security support (2/20)
 ## 2025-03-09 15:52:15 - feat(ui): add ui endpoint (12/20)
+## 2025-03-30 09:53:25 - feat(security): add security support (14/20)
