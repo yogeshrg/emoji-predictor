@@ -209,3 +209,4 @@
 ## 2025-03-09 15:52:15 - feat(ui): add ui endpoint (12/20)
 ## 2025-03-30 09:53:25 - feat(security): add security support (14/20)
 ## 2025-03-30 15:32:57 - feat(monitor): add monitor support (20/20)
+## 2025-04-06 09:56:23 - feat(core): add core endpoint (7/20)
